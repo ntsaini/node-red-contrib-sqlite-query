@@ -1,5 +1,5 @@
 {
-    "name"          : "node-red-node-sqlite-query",
+    "name"          : "node-red-contrib-sqlite-query",
     "version"       : "0.1.1",
     "description"   : "A sqlite node for Node-RED",
     "dependencies"  : {
